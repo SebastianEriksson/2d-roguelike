@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D_Hanze", "2D_Hanze.csproj", "{92D99EB0-EB69-4E9A-FC6E-A7CD4D8217AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D_Hanze.Editor", "2D_Hanze.Editor.csproj", "{D2CC4933-E264-5209-A80B-15423425F0E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92D99EB0-EB69-4E9A-FC6E-A7CD4D8217AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D99EB0-EB69-4E9A-FC6E-A7CD4D8217AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D99EB0-EB69-4E9A-FC6E-A7CD4D8217AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D99EB0-EB69-4E9A-FC6E-A7CD4D8217AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2CC4933-E264-5209-A80B-15423425F0E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CC4933-E264-5209-A80B-15423425F0E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CC4933-E264-5209-A80B-15423425F0E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CC4933-E264-5209-A80B-15423425F0E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
